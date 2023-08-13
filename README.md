@@ -10,6 +10,9 @@ Habilidades y herramientas implicadas:
 - Estadísticas descriptivas
 - Excel, Power BI, SQL.
 
+Si deseas interactuar con el tablero realizado en este análisis, siga el siguiente link: 
+-https://www.novypro.com/profile_projects/agustinmusanti
+
 Si deseas saber más sobre este proyecto o tienes algunda pregunta puedes contactarme por: 
 - Linkedin: https://www.linkedin.com/in/agustinmusanti/
 - Correo electrónico: agustinmusanti@gmail.com
